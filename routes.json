@@ -1,0 +1,7 @@
+{
+  "/metodos/cadastraDigital\\?*": "/response?",
+  "/metodos/verificaTemplateDigital\\?*": "/response?",
+
+  "/metodos/excluiDigital\\?*": "/response?",
+  "/metodos/excluiDigital": "/response"
+}
